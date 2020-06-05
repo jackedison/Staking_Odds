@@ -24,7 +24,25 @@ I am pushing the code here to share with old friends who continue to use this as
 | Scam_Chance     | wins, losses, (simulations=1_000_000)                                         | Trivial implementation of scam likelihood; odds of similar data to your logged wins & losses occurring.                                     |
 
 ## For example:
-* 
+To compute odds of stat variation of 99 mage, 60 def, 99 hp, vs 99/99/99 run:
+1. Compile with `javac Chance.java`
+2. Run with `java Chance 99 60 99 99 99 99`
+
+To adjust to run 100m simulations instead of the default 10m run as:
+* `java Chance 99 60 99 99 99 99 100000000`
+
+Output (executed in 3.173s):
+
+`Running 100000000 simulations of 99/60/99 vs 99/99/99 (mage/def/hp)`
+
+`Wins: 46074175`
+
+`Losses: 53925825`
+
+`1.170x`
+
+
+
 
 ## Requirements: 
 * JDK 14+
