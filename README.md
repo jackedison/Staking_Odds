@@ -52,14 +52,14 @@ Output (executed in 3.173s):
 For best results log stakes (Excel works fine) to feed into some of these methods. Example of my old storage and some cross functional capabilities(some details blurred):
 
 <p align="center">
-<img src="screenshots/1.png" width="369" height="66" />
+<img src="screenshots/1.png" width="590" height="106" />
 </p>
 
 <p align="center">
-<img src="screenshots/2.png" width="403" height="268" />
+<img src="screenshots/2.png" width="645" height="429" />
 </p>
 
 <p align="center">
-<img src="screenshots/3.png" width="330" height="189" />
+<img src="screenshots/3.png" width="528" height="302" />
 </p>
 
