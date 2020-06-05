@@ -47,3 +47,19 @@ Output (executed in 3.173s):
 ## Requirements: 
 * JDK 14+
 * To run with java/javac keywords you may need to configure environmental variables. You mean also need to run as src.{class_name} depending on your setup.
+
+## Collaboration with data
+For best results log stakes (Excel works fine) to feed into some of these methods. Example of my old storage and some cross functional capabilities(some details blurred):
+
+<p align="center">
+<img src="screenshots/1.png" width="369" height="66" />
+</p>
+
+<p align="center">
+<img src="screenshots/2.png" width="403" height="268" />
+</p>
+
+<p align="center">
+<img src="screenshots/3.png" width="330" height="189" />
+</p>
+
